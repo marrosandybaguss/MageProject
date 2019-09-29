@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::get('/aku', function () {
     return view('welcome');
 });
+
+// Sandy
